@@ -1,5 +1,7 @@
 # Kramer-et-al-2022-homogenization_differentiation_tropical-forests
 
+Full manuscript: https://doi.org/10.1111/cobi.14025
+
 Here we aim to assess the current 'state of the art' of biotic homogenization and differentiation processes in tropical and subtropical plant communities globally, using a systematic literature review. We present an overview and general trends about both processes.
 
 Descriptions for the files and scripts
